@@ -1,0 +1,16 @@
+calvinwong@Calvins-MacBook-Pro ~ % cd Desktop 
+calvinwong@Calvins-MacBook-Pro Desktop % vim Lab5.sh
+calvinwong@Calvins-MacBook-Pro Desktop % chmod +x Lab5.sh 
+calvinwong@Calvins-MacBook-Pro Desktop % ./Lab5.sh 
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  579k    0  579k    0     0   981k      0 --:--:-- --:--:-- --:--:--  979k
+                                        <a href=/regional/global/daily/latest/download class="header-csv" download="">Download to CSV</a>
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 19629    0 19629    0     0  36282      0 --:--:-- --:--:-- --:--:-- 36215
+This is the most streamed song for the given day on Spotify
+1,"drivers license","Olivia Rodrigo",4760105,https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS
+calvinwong@Calvins-MacBook-Pro Desktop % 
+
+
